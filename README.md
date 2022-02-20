@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Snag-hub
+- 👋 Hi, I’m Syed Nadeem Hussain
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Js Libraries
 - 💞️ I’m looking to collaborate on Front-end Development and Wb Development
