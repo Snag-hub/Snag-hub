@@ -10,7 +10,7 @@ I am a web developer with a passion for learning and problem-solving. I have a s
 *   🖥️  See my portfolio at [MyPortfolio](http://snag-hub.github.io/portfolio/)
 *   ✉️  You can contact me at [imsnag.1@gmail.com](mailto:imsnag.1@gmail.com)
 *   🚀  I'm currently working on [Sorting Algorithm Visualizer](http://github.com/Snag-hub/Sorting-Visualizer)
-*   🧠  I'm learning Adv. Java
+*   🧠  I'm working as a <b>Software Developer</b> at CineTech India Enterprises Pune
 *   🤝  I'm open to collaborating on Web Development, Java Web Development, PHP, MySQL, JavaScript, CSS### Skills<p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
