@@ -1,7 +1,7 @@
 Hi 👋 My name is Syed Nadeem Hussain
 ====================================
 
-Web Developer & Programmer
+Software Developer
 --------------------------
 
 I am a web developer with a passion for learning and problem-solving. I have a strong background in Front-end Development and have worked with many different languages and frameworks. I am currently looking for a position in the web development industry.
