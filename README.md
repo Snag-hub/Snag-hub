@@ -1,17 +1,20 @@
-Hi 👋 My name is Syed Nadeem Hussain
+Hi 👋 I'm Syed Nadeem Hussain
 ====================================
 
 Software Developer
 --------------------------
 
-I am a web developer with a passion for learning and problem-solving. I have a strong background in Front-end Development and have worked with many different languages and frameworks. I am currently looking for a position in the web development industry.
+I am a Software with a passion for learning and problem-solving. I have a strong background in Front-end Development and have worked with many different languages and frameworks. I am currently working as a Software Developer at Cinetech India EnterPrises.
 
-*   🌍  I'm based in Pune, Maharashtra
+*   🌍  I'm based in Pune, India
 *   🖥️  See my portfolio at [MyPortfolio](http://snag-hub.github.io/portfolio/)
 *   ✉️  You can contact me at [imsnag.1@gmail.com](mailto:imsnag.1@gmail.com)
 *   🚀  I'm currently working on [Sorting Algorithm Visualizer](http://github.com/Snag-hub/Sorting-Visualizer)
 *   🧠  I'm working as a <b>Software Developer</b> at CineTech India Enterprises Pune
-*   🤝  I'm open to collaborating on Web Development, Java Web Development, PHP, MySQL, JavaScript, CSS### Skills<p align="left">
+*   🤝  I'm open to collaborating on Web Development, JavaScript Development, PHP, MySQL, SQL, JavaScript, CSS, SASS, .Net Framework
+
+### Skills
+<p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -28,9 +31,17 @@ I am a web developer with a passion for learning and problem-solving. I have a s
                                 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                                 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
-                    </p>
+</p>
+
 ### Socials
-<p align="left"> <a href="https://www.github.com/Snag-hub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://snaggy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/anonymous.programmer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/syednadeemhussain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15790726/snag" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/therealgeelani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://www.github.com/Snag-hub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+  <a href="https://snaggy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> 
+  <a href="http://www.instagram.com/anonymous.programmer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/syednadeemhussain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://www.stackoverflow.com/users/15790726/snag" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
+  <a href="https://www.twitter.com/therealgeelani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
                     
 ### Badges
 
