@@ -1,7 +1,7 @@
 Hi 👋 I'm Syed Nadeem Hussain
 ====================================
 
-Software Developer
+Software Developer (.Net & React.js Developer)
 --------------------------
 
 I am a Software with a passion for learning and problem-solving. I have a strong background in Front-end Development and have worked with many different languages and frameworks. I am currently working as a Software Developer at Cinetech India EnterPrises.
