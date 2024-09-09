@@ -9,7 +9,6 @@ Detail-oriented .NET Developer with over 2 years of experience in full-stack dev
 *   🌍 Based in Pune, India
 *   🖥️ Check out my portfolio at [My Portfolio](http://snag-hub.github.io/portfolio/)
 *   ✉️ Contact me at [imsnag.1@gmail.com](mailto:imsnag.1@gmail.com)
-*   🚀 Currently working on [Sorting Algorithm Visualizer](http://github.com/Snag-hub/Sorting-Visualizer)
 *   🧠 I work as a Software Developer at Cinetech India Enterprises, Pune
 *   🤝 Open to collaborating on projects involving Web Development, JavaScript, PHP, MySQL, SQL, CSS, SASS, and .NET Framework
 
