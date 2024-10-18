@@ -45,13 +45,13 @@ Hi, I'm **Syed Nadeem Hussain**, a detail-oriented **.NET Developer** with over 
 
 ### 🔥 My Latest Work
 
-[![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snag-hub&show_icons=true&theme=radical&count_private=true)](https://github.com/Snag-hub)
+![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snag-hub&show_icons=true&theme=radical&count_private=true)
 
 ---
 
 ### 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snag-hub&layout=compact&theme=radical&count_private=true)](https://github.com/Snag-hub)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snag-hub&layout=compact&theme=radical&count_private=true)
 
 ---
 
