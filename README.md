@@ -42,25 +42,6 @@ Hi, I'm **Syed Nadeem Hussain**, a detail-oriented **.NET Developer** with over 
   - Assisted in building web applications and contributed to both front-end and back-end development.
 
 ---
-
-### 🔥 My Latest Work
-
-![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snag-hub&show_icons=true&theme=radical&count_private=true)
-
----
-
-### 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snag-hub&layout=compact&theme=radical&count_private=true)
-
----
-
-### 🚀 Latest Repositories
-
-<!-- LATEST REPOS -->
-
----
-
 ### 📫 Get in Touch
 
 - Email: [imsnag.1@gmail.com](mailto:imsnag.1@gmail.com)
