@@ -9,7 +9,7 @@
 
 ### About Me
 
-Hi, I'm **Syed Nadeem Hussain**, a detail-oriented **.NET Developer** with over 2 years of experience in full-stack development. My expertise lies in building scalable web applications using **ASP.NET MVC**, **Web APIs**, and **.NET Core**. I have a strong background in **C#**, **SQL**, and **React.js**, and I thrive on solving complex problems while delivering customer-centric solutions.
+Hi, I'm **Syed Nadeem Hussain**, a detail-oriented **.NET Developer** with nearly 3 years of experience in full-stack development. My expertise lies in building scalable web applications using **ASP.NET MVC**, **Web APIs**, and **.NET Core**. I have a strong background in **C#**, **SQL**, and **React.js**, and I thrive on solving complex problems while delivering customer-centric solutions.
 
 - 🛠️ I'm currently working at **Cinetech India Enterprises** as a **Software Developer** and leading a team of developers.
 - 🌱 I’m currently learning **advanced system design** and **cloud-native development**.
